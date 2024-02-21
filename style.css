@@ -1,0 +1,51 @@
+.Mila {
+
+}
+
+.Luasa {
+    border-style: dotted;
+    font-size: 10px;
+    width: 500px;
+    margin: 5px;
+    font-family: monospace;
+}
+
+
+.Milatext {
+    font-family: monospace;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.Starters {
+    font-family: monospace;
+    font-weight: 10px;
+
+}
+
+.Starterdivider {
+    margin-top: 0px;
+    font-weight: 60px;
+}
+
+.Startermenu {
+    font-family: monospace;
+    font-weight: 90px;
+}
+
+.Drinks {
+    font-family: monospace;
+    font-weight: 10px;
+    margin-top: 50px;
+}
+
+
+.Drinksdivider {
+    margin-top: 0px;
+    font-weight: 60px;
+}
+
+.Drinksmenu {
+    font-family: monospace;
+    font-weight: 90px;
+}
